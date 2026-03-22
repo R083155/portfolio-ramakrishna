@@ -73,9 +73,9 @@ document.addEventListener('visibilitychange',
 var typed = new Typed(".typing-text", {
     strings: ["Project Management", "Stakeholder Management", "Capital Markets", "AI Driven Automation and Testing", "Leadership and Agile", "Regulatory and Compliance", "CI/CD DevOps Integration"],
     loop: true,
-    typeSpeed: 50,
-    backSpeed: 25,
-    backDelay: 500,
+    typeSpeed: 75,
+    backSpeed: 30,
+    backDelay: 800,
 });
 // <!-- typed js effect ends -->
 
